@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-> Backend & Full-Stack developer with a passion for Machine Learning and Data Science.
+> Full-Stack developer with a passion for Machine Learning and Data Science.
 > I love building end-to-end systems — from REST APIs and microservices to ML models and data pipelines.
 > Currently focused on applying AI to real-world problems.
 
