@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Burak Sahin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;ML+%26+Data+Science+Engineer;Backend+Architect;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;ML+%26+Data+Science;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 <p>
   Scalable backend systems, intelligent ML pipelines,<br>
