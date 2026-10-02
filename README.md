@@ -16,7 +16,3 @@
 <p align="center">
   <img src="./assets/skills.svg" width="100%" alt="Skill set: Python, PyTorch, OpenCV, Agentic RAG, Multi-Agent Systems, vLLM, React, Next.js, Node.js, FastAPI, PostgreSQL, Hailo-8, ONNX, ROS2, Raspberry Pi, ESP32, Docker, Git, Linux"/>
 </p>
-
-<p align="center">
-  <img src="./assets/contrib.svg" width="100%" alt="Contribution heatmap"/>
-</p>
